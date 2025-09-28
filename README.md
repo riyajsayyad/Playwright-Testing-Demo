@@ -1,4 +1,4 @@
 # Playwright-Testing-Demo
 This is for testing purpose, so don consider as a framework repo
 <br>
-Author - Riyaz Sayyad
+Author - Riyaz Sayyad (Testing Purpose)
